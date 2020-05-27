@@ -1114,7 +1114,7 @@ New fedex.com Users
 <a class="chiclet youtube" href="#" title="Youtube" target="_blank"></a>
 </div>
 <div class="col col4 col-last" style="min-height: 143px;">
-<a href="#" title=""><img src="https://agronal.com/fedex/assets/files/in.gif" width="16" height="11" alt="" class="flag"></a><a href="#" title="">India - English</a>
+<a href="#" title=""><img src="https://agronal.com/fedex/assets/files/in.gif" width="16" height="11" alt="" class="flag"></a><a href="#" title="">English</a>
 <!-- ELEMENT: BEGIN SAG CONTAINER -->
 </div>
 <!-- END ROW 2: FOOTER NAVIGATION -->
